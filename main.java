@@ -1,4 +1,4 @@
-Public Class main{
+Public Class mains{
 
 
 }
